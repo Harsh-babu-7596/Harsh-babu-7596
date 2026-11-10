@@ -9,21 +9,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-bhadouria01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harshbhadouria71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Harsh-babu-7596&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **B.Tech, IIT Mandi** — Bioengineering major, Computer Science minor
-- 💼 **Associate Software Engineer @ Arrise Solutions** — shipping production features for live-casino products (TypeScript, React, Redux)
+- 🎓 **B.Tech, IIT Mandi** — Engineering major, Computer Science minor
+- 💼 **Associate Software Engineer @ Arrise Solutions** — shipping production features products (TypeScript, React, Redux)
 - 🤖 **Navigation Team @ Bharat Innovates, CAIR** — Deep RL (PPO + LSTM) for autonomous Husky navigation in ROS/Gazebo on BARN maps
 - 🧠 Previously **AI/ML Intern @ Tracker Suite** — built a RAG analytics layer over a 20,000+ user sales platform, exposed to Claude via an **MCP connector**
 - 🛰️ Built the **Science Module** of IIT Mandi's **Mars Rover** — OpenCV life-detection + a rock classifier at up to 99% accuracy
 - 🏆 **2× hackathon winner** · 💰 **₹3 Lakh IIT Mandi Catalyst grant** (drone project)
-- 🔭 Currently exploring: **agentic frameworks, LLM systems, and AI for robotics**
-
+- 🔭 Currently exploring: **agentic frameworks, LLM systems, Deep Learning systems and AI opportuinities**
 ---
 
 ### 🔥 Featured Projects
@@ -85,18 +83,6 @@
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-babu-7596&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-babu-7596&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsh-babu-7596&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
